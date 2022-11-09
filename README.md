@@ -3,9 +3,9 @@
 This is just the apk file to show the UI for virtual event apps
 
 
-<img src="[apps.gif](https://drive.google.com/file/d/1QOrCldRvnnAV-r7V9On62VALRsZ4Nzlq/view?usp=sharing)" height="480px" > 
+<img src="https://github.com/Flutter-virtual-event-apps-UI/Vapps.gif" height="480px" > 
 
-<video src='https://drive.google.com/file/d/1QOrCldRvnnAV-r7V9On62VALRsZ4Nzlq/view?usp=sharing' width=180/>
+<video src='https://github.com/Flutter-virtual-event-apps-UI/Vapps.gif' width=180/>
 
 
 ![](https://drive.google.com/file/d/1QOrCldRvnnAV-r7V9On62VALRsZ4Nzlq/view?usp=sharing)
